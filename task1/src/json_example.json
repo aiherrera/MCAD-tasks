@@ -1,0 +1,90 @@
+[
+  {
+    "CrimeId": 160903280,
+    "OriginalCrimeTypeName": "Assault / Battery",
+    "OffenseDate": "2016-03-30T00:00:00",
+    "CallDateTime": "2016-03-30T18:42:00",
+    "Disposition": "REP",
+    "Address": "100 Block Of Chilton Av",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Premise Address"
+  },
+  {
+    "CrimeId": 160912272,
+    "OriginalCrimeTypeName": "Homeless Complaint",
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T15:31:00",
+    "Disposition": "GOA",
+    "Address": "2300 Block Of Market St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Premise Address"
+  },
+  {
+    "CrimeId": 160912590,
+    "OriginalCrimeTypeName": "Susp Info",
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T16:49:00",
+    "Disposition": "GOA",
+    "Address": "2300 Block Of Market St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Premise Address"
+  },
+  {
+    "CrimeId": 160912801,
+    "OriginalCrimeTypeName": "Report",
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T17:38:00",
+    "Disposition": "GOA",
+    "Address": "500 Block Of 7th St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Premise Address"
+  },
+  {
+    "CrimeId": 160912811,
+    "OriginalCrimeTypeName": 594,
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T17:42:00",
+    "Disposition": "REP",
+    "Address": "Beale St/bryant St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Intersection"
+  },
+  {
+    "CrimeId": 160913003,
+    "OriginalCrimeTypeName": "Ref'd",
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T18:29:00",
+    "Disposition": "GOA",
+    "Address": "16th St/pond St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Intersection"
+  },
+  {
+    "CrimeId": 160913050,
+    "OriginalCrimeTypeName": "Homeless Complaint",
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T18:43:00",
+    "Disposition": "ADV",
+    "Address": "Berwick Pl/harrison St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Intersection"
+  },
+  {
+    "CrimeId": 160913056,
+    "OriginalCrimeTypeName": "Homeless Complaint",
+    "OffenseDate": "2016-03-31T00:00:00",
+    "CallDateTime": "2016-03-31T18:47:00",
+    "Disposition": "HAN",
+    "Address": "Florida St/mariposa St",
+    "City": "San Francisco",
+    "State": "CA",
+    "AddressType": "Intersection"
+  }
+]
